@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">A fullstack developer (.net/node.js/react/ts) from Germany</h3>
 
-- 🔭 I’m currently working on [Cloudklabauter](https://www.kalypso.cloud/)
+- 🔭 I’m currently working on [Cloudklabauter](https://www.kalypso.cloud/) & [Meyer Consulting](https://meyer-consulting.net)
 
 - 🌱 I’m currently learning **Go and more Pulumi**
 
